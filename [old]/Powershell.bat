@@ -1,0 +1,1 @@
+powershell.exe start-process powershell -verb runas -ArgumentList "{-NoExit -ExecutionPolicy bypass -Command cd \\SERVER\folder}"

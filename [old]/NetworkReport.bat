@@ -1,0 +1,1 @@
+powershell.exe start-process powershell -ArgumentList "{-NoExit -ExecutionPolicy bypass -Command \\SERVER\NetworkReport.ps1}"
